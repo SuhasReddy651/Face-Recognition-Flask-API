@@ -15,7 +15,7 @@ with open('data.csv') as file:
     image_urls = []
     for row in reader:
         names.append(row[0])
-        image_urls.append(row[1], row[2], row[3], row[4])
+        image_urls.append(row[1])
 
 # Load images from URLs
 images = []
@@ -45,7 +45,6 @@ def face_recognition_endpoint():
         matching_names = []
         if len(face_encodings) >0:
             input_encoding = face_recognition.face_encodings(input_image)[0]
-            
             # Perform face recognition on input image
             results = face_recognition.compare_faces(encodings, input_encoding)
 
@@ -53,8 +52,8 @@ def face_recognition_endpoint():
             for i, match in enumerate(results):
                 if match:
                     matching_names.append(names[i])
-        print(matching_names)
-        return jsonify(matching_names)
+            print(matching_names)
+            return jsonify(matching_names)
     else:
         return render_template('index.html')
 if __name__ == '__main__':

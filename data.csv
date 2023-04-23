@@ -1,10 +1,10 @@
-name,image_path
-Sathi Surya Suhas Reddy,/Users/suhas/my_project/images/suhas.JPG
-Sathi Sarath Venkata Reddy,/Users/suhas/my_project/images/Sarath.jpg
-Shaik Sheeru Ali Moulali,/Users/suhas/my_project/images/Ali.jpg
-Shaik Mohammad Sadikh,/Users/suhas/my_project/images/sadikh.jpg
-Seelam Vinay Reddy,/Users/suhas/my_project/images/vinay.jpg
-Joe Biden,/Users/suhas/my_project/images/joe.jpg
-Narendra Modi,/Users/suhas/my_project/images/namo.jpg
-Barak Obama,/Users/suhas/my_project/images/obama.jpg
-Rishi Sunak,/Users/suhas/my_project/images/sunak.jpg
+name,images
+Sathi Surya Suhas Reddy,/Users/suhas/Project/python_codes/images/suhas.JPG /Users/suhas/Project/python_codes/images/suhas2.JPG /Users/suhas/Project/python_codes/images/suhas3.jpg /Users/suhas/Project/python_codes/images/suhas4.PNG /Users/suhas/Project/python_codes/images/suhas5.JPG
+Sathi Sarath Venkata Reddy,/Users/suhas/Project/python_codes/images/Sarath.jpg /Users/suhas/Project/python_codes/images/Sarath2.JPG /Users/suhas/Project/python_codes/images/Sarath3.jpg /Users/suhas/Project/python_codes/images/Sarath4.jpg /Users/suhas/Project/python_codes/images/Sarath5.JPG
+Shaik Sheeru Ali Moulali,/Users/suhas/Project/python_codes/images/Ali.jpg
+Shaik Mohammad Sadikh,/Users/suhas/Project/python_codes/images/sadikh.jpg /Users/suhas/Project/python_codes/images/Sadikh2.JPG /Users/suhas/Project/python_codes/images/Sadikh3.png /Users/suhas/Project/python_codes/images/Sadikh4.JPG /Users/suhas/Project/python_codes/images/Sadikh5.JPG
+Seelam Vinay Reddy,/Users/suhas/Project/python_codes/images/vinay.jpg
+Joe Biden,/Users/suhas/Project/python_codes/images/joe.jpg
+Narendra Modi,/Users/suhas/Project/python_codes/images/namo.jpg
+Barak Obama,/Users/suhas/Project/python_codes/images/obama.jpg
+Rishi Sunak,/Users/suhas/Project/python_codes/images/sunak.jpg
